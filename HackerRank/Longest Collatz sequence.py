@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+@author: anishukla
+"""
+#Level:Medium
+
 CL = 5_000_000
 
 def memo(f):

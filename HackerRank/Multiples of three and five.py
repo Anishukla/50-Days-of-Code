@@ -2,6 +2,7 @@
 """
 @author: anishukla
 """
+#Maths
 
 T = int(input())
 for i in range(T):

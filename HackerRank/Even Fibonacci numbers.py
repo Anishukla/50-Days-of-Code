@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+@author: anishukla
+"""
+#Level:Easy
+
 t = int(input())
 for k in range(t):
     n = int(input())

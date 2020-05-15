@@ -3,6 +3,8 @@
 @author: anishukla
 """
 
+#Level: Medium
+
 t = int(input())
 for _ in range(t):
     n = int(input().strip())
