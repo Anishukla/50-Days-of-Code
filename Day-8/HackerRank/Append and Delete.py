@@ -2,6 +2,7 @@
 """
 @author: anishukla
 """
+#Level:Medium
 
 # Complete the appendAndDelete function below.
 def appendAndDelete(s, t, k):
